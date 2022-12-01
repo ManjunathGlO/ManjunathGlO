@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/manjugl_here" target="blank"><img src="https://img.shields.io/twitter/follow/manjugl_here?logo=twitter&style=for-the-badge" alt="manjugl_here" /></a> </p>
 
-- 🔭 I’m currently working on **ExploraSportsorttary Data Analysis on Sports**
+- 🔭 I’m currently working on **Exploratory Data Analysis on Sports**
 
-- 🌱 I’m currently learning **Machine Learning,Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning | Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
