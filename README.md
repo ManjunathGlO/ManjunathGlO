@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view](https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view)
 
-- 💬 Ask me about **Data Science | Data Analysis |AI & ML**
+- 💬 Ask me about **Data Science | Data Analysis | AI & ML**
 
 - 📫 How to reach me **manjunathgl064@gmail.com**
 
