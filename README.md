@@ -36,7 +36,7 @@
 <a href="https://twitter.com/manjugl_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manjugl_here" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manjunath g l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjunath g l" height="30" width="40" /></a>
 <a href="https://kaggle.com/manjunathgl064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manjunathgl064" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@manjugl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@manjugl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@manjugl" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manjunathgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manjunathgl" height="30" width="40" /></a>
 </p>
 
