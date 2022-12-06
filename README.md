@@ -110,7 +110,8 @@
   
  <h2><i>My GitHub Stats:</i></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact&exclude=0&theme=tokyonight" alt="manjunathglo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact&exclude=0&theme=tokyonight" alt="manjunathglo" /></p>
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>
