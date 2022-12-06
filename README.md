@@ -77,6 +77,7 @@
   
   <!----------------------------------- Social Media Links Section ------------------------------------>
   
+  
  <h2><i>Let's Connect with me:</i></h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/manjunathgl/">
@@ -106,11 +107,14 @@
   
 <!----------------------------------- GitHub Stats Section ------------------------------------>
   
-  <h2><i>My GitHub Stats:</i></h2>
+  
+ <h2><i>My GitHub Stats:</i></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact" alt="manjunathglo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact" alt="manjunathglo"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunathglo&show_icons=true&locale=en" alt="manjunathglo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&" alt="manjunathglo" /></p>
 
+  
+  
