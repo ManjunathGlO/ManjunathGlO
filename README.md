@@ -31,34 +31,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/manjunathgl/](https://www.linkedin.com/in/manjunathgl/)
   
-<!----------------------------------- Social Media Links Section ------------------------------------>
-  
-  <h2><i>Let's Connect with me:</i></h2>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/manjunathgl/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manjunathgl/" />
-    </a>
-  <a title="manjunathgl064@gmail.com" href="mailto:manjunathgl064@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="manjunathgl064@gmail.com" />
-    </a>
-    <a href="https://twitter.com/manjugl_here">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/manjugl_here" />
-  </a>
-    <a href="https://leetcode.com/ManjunathGL/">
-        <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="https://leetcode.com/ManjunathGL/" />
-    </a>
-    <a href="https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view" />
-    </a>
-     <a href="https://www.kaggle.com/manjunathgl064">
-        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="https://www.kaggle.com/manjunathgl064" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww">
-        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww" />
-    </a>
-</p>
-  
+ 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2><i>Tech Stack</i></h2>
 
@@ -69,10 +42,9 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
@@ -98,10 +70,43 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
     <img src="https://img.shields.io/badge/ABB_RobotStudio-FF9E0F?style=for-the-badge&logo=ABB_RobotStudio&logoColor=white" alt="ABB_RobotStudio" />
-   
+    </p>
+    <br>
+  
+  
+  
+  <!----------------------------------- Social Media Links Section ------------------------------------>
+  
+ <h2><i>Let's Connect with me:</i></h2>
+<p align="left">
+    <a href="https://www.linkedin.com/in/manjunathgl/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manjunathgl/" />
+    </a>
+  <a title="manjunathgl064@gmail.com" href="mailto:manjunathgl064@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="manjunathgl064@gmail.com" />
+    </a>
+    <a href="https://twitter.com/manjugl_here">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/manjugl_here" />
+  </a>
+    <a href="https://leetcode.com/ManjunathGL/">
+        <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="https://leetcode.com/ManjunathGL/" />
+    </a>
+    <a href="https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view" />
+    </a>
+     <a href="https://www.kaggle.com/manjunathgl064">
+        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="https://www.kaggle.com/manjunathgl064" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww">
+        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww" />
+    </a>
 </p>
-<br>
+  
+  
+  
 <!----------------------------------- GitHub Stats Section ------------------------------------>
+  
+  <h2><i>My GitHub Stats:</i></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact" alt="manjunathglo" /></p>
 
