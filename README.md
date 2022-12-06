@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-41454A?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux" />
@@ -58,7 +59,11 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon_AWS&logoColor=white" alt="Amazon_AWS" />
     <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=MySQL&logoColor=white" alt="AWS_Lambda" />
     <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo= Amazon_EC2&logoColor=white" alt="Amazon_EC2" />
-    <img src="https://img.shields.io/badge/Cloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="Cloud" />
+    <img src="https://img.shields.io/badge/Cloud-3693F3?style=for-the-badge&logo=Cloud&logoColor=white" alt="Cloud" />
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-053766?style=for-the-badge&logo=Artificial_Intelligence&logoColor=white"       alt="Artificial_Intelligence" />
+    <img src="https://img.shields.io/badge/Machine_Learning-632CA6?style=for-the-badge&logo=Machine_Learning&logoColor=white" alt="Machine_Learning" />
+    <img src="https://img.shields.io/badge/Data_Structure-03EF62?style=for-the-badge&logo=Data_Structure&logoColor=white" alt="Data_Structure" />
+    <img src="https://img.shields.io/badge/Deep_Learning-2AB1AC?style=for-the-badge&logo=Deep_Learning&logoColor=white" alt="Deep_Learning" />
     <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=Apache_Hadoop&logoColor=white" alt="Apache_Hadoop" />
     <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" />
     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=Apache_Spark&logoColor=white" alt="Apache_Spark" />
@@ -68,7 +73,9 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Microsoft_Azure-CB2E6D?style=for-the-badge&logo=Microsoft_Azure&logoColor=white" alt="Microsoft_Azure" />
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" />
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Algorithms-00BCB4?style=for-the-badge&logo=Algorithms&logoColor=white" alt="Algorithms" />
     <img src="https://img.shields.io/badge/ABB_RobotStudio-FF9E0F?style=for-the-badge&logo=ABB_RobotStudio&logoColor=white" alt="ABB_RobotStudio" />
     </p>
     <br>
