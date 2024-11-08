@@ -1,9 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center"> Hey! Hi, I'm Manjunath G L ..<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" height="40px" alt="hi">
 <h3 align="center">A passionate Software Engineer from India.</h3>
+  
   <div align="center">
 </div>
      <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Scientist;Data+Structure;Algorithm;Data+Analysis;Machine+Learning;Artificial+Intelligence;PLC+Programming;Robot+Programming;Full+Stack+Web+Developer"></img></a>
+     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
      <hr/>
      <div style="display:flex">
     <p align="left" style="max-width:40%"><p align="center">
