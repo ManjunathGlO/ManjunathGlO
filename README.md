@@ -1,6 +1,7 @@
 <!-- ===================================================== -->
 <!--        MANJUNATH G L • DATA ANALYST PROFILE          -->
 <!-- ===================================================== -->
+<a name="top"></a>
 <img width="2172" height="724" alt="ChatGPT Image Aug 20, 2026, 08_52_33 AM" src="https://github.com/user-attachments/assets/e34e8cd2-4a13-4cc7-9631-ba73c693eb5d" />
 
 <p align="center">
@@ -480,6 +481,11 @@ I believe data becomes valuable only when it helps people make informed business
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-1F6FEB?style=for-the-badge&logoColor=white" alt="Back to Top">
+  </a>
+</p>
 
 <br />
 
