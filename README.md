@@ -152,6 +152,7 @@ I believe great analytics is not only about finding numbers — it's about helpi
 # 🚀 Featured Data Analytics Projects
 
 ## 📊 Customer Churn Analysis & Prediction
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
 <p>
   <img src="https://img.shields.io/badge/SQL-Structured%20Analysis-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -194,6 +195,7 @@ Identified customer behavior and segments associated with higher churn risk to s
 ---
 
 ## 👥 HR Analytics & Employee Attrition Prediction
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
 <p>
   <img src="https://img.shields.io/badge/Python-EDA-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -235,6 +237,7 @@ Used employee data to identify potential attrition drivers and provide insights 
 ---
 
 ## 📈 Sales & Business Performance Dashboard
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
