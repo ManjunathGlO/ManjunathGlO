@@ -53,7 +53,7 @@ I'm an aspiring **Data Analyst** with a strong foundation in **SQL, Python, Powe
 - 🤖 Learning Machine Learning for predictive analytics
 - 💻 Explore my [**Portfolio**](https://manjunathglo.github.io/) to discover my **projects, skills, and journey** as a Data Analyst.
 
-### My Analytics Mindset [🔝](#top)
+### My Analytics Mindset 
 
 > **Collect → Clean → Analyze → Visualize → Communicate → Recommend**
 
@@ -432,7 +432,7 @@ I believe data becomes valuable only when it helps people make informed business
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Let's Connect  [🔝](#top)
 
 <p align="center">
 
@@ -482,15 +482,6 @@ I believe data becomes valuable only when it helps people make informed business
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-
-
-<!-- Back to Top -->
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/⬆%20BACK%20TO%20TOP-123B6D?style=for-the-badge&labelColor=0B1F3A" alt="Back to Top"/>
-  </a>
-</p>
-<br />
 
 <!-- ===================================================== -->
 <!--                END OF PROFILE README                  -->
