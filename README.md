@@ -1,128 +1,407 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center"> Hey! Hi, I'm Manjunath ..<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" height="40px" alt="hi">
-<h3 align="center">A passionate Software Engineer from India.</h3>
-  
-  <div align="center">
-</div>
-     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Scientist;Data+Structure;Algorithm;Data+Analysis;Machine+Learning;Artificial+Intelligence;PLC+Programming;Robot+Programming;Full+Stack+Web+Developer"></img></a>
-     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-     <hr/>
-     <div style="display:flex">
-    <p align="left" style="max-width:40%"><p align="center">
-  <img alt="Coding" width="500" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
+<!-- ===================================================== -->
+<!--        MANJUNATH G L • DATA ANALYST PROFILE          -->
+<!-- ===================================================== -->
+<img width="2172" height="724" alt="ChatGPT Image Aug 20, 2026, 08_52_33 AM" src="https://github.com/user-attachments/assets/e34e8cd2-4a13-4cc7-9631-ba73c693eb5d" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manjunath+G+L+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+Into+Meaningful+Business+Insights" alt="Typing SVG" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathglo&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathglo" /> </p>
+<p align="center">
+  <b>Data Analyst • Business Intelligence • Data Visualization</b>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjunathglo" alt="manjunathglo" /></a> </p>
+<p align="center">
+  <i>Transforming raw data into meaningful insights, interactive dashboards, and data-driven business decisions.</i>
+</p>
 
-<p align="left"> <a href="https://twitter.com/manjugl_here" target="blank"><img src="https://img.shields.io/twitter/follow/manjugl_here?logo=twitter&style=for-the-badge" alt="manjugl_here" /></a> </p>
+<p align="center">
 
-- 🔭 I’m currently working on **Exploratory Data Analysis on Sports**
+  <a href="https://www.linkedin.com/in/manjunathgl/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-- 🌱 I’m currently learning **Machine Learning | Artificial Intelligence**
+  <a href="https://github.com/ManjunathGlO">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+  <a href="mailto:manjunathgl064@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-- 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view](https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view)
+</p>
 
-- 💬 Ask me about **Data Science | Data Analysis | AI & ML**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManjunathGlO&label=Profile%20Views&color=1F6FEB&style=flat"/>
+</p>
 
-- 📫 How to reach me **manjunathgl064@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manjunathgl/](https://www.linkedin.com/in/manjunathgl/)
-  
- 
-<!----------------------------------- Tech Stack Section ------------------------------------>
-<h2><i>Tech Stack:</i></h2>
+# 👨‍💻 About Me
+
+I'm an aspiring **Data Analyst** with a strong foundation in **SQL, Python, Power BI, Advanced Excel, and Data Visualization**. I enjoy transforming complex datasets into meaningful business insights through analytical thinking, interactive dashboards, and data storytelling.
+
+- 📊 Passionate about Business Analytics & BI
+- 🐍 Skilled in Python for Data Analysis
+- 🗄️ Comfortable working with SQL & MySQL
+- 📈 Building interactive Power BI dashboards
+- 🧹 Interested in Data Cleaning & Exploratory Data Analysis
+- 🤖 Learning Machine Learning for predictive analytics
+
+### My Analytics Mindset
+
+> **Collect → Clean → Analyze → Visualize → Communicate → Recommend**
+
+I believe great analytics is not only about finding numbers — it's about helping businesses make better decisions.
+
+---
+
+# 🛠️ Data Analytics Toolkit
+
+## Programming & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+## Data Analysis
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+## Business Intelligence & Visualization
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+## Excel & Reporting
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PivotTables-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XLOOKUP-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLOOKUP-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INDEX%2FMATCH-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COUNTIFS-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SUMIFS-217346?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🔄 End-to-End Data Analytics Workflow
+
+<table>
+<tr>
+<td align="center">📥<br><b>Raw Data</b></td>
+<td align="center">➡️</td>
+<td align="center">🧹<br><b>Data Cleaning</b></td>
+<td align="center">➡️</td>
+<td align="center">🗄️<br><b>SQL Analysis</b></td>
+<td align="center">➡️</td>
+<td align="center">📊<br><b>EDA</b></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">⚙️<br><b>Feature Engineering</b></td>
+<td align="center">➡️</td>
+<td align="center">📈<br><b>Dashboard</b></td>
+<td align="center">➡️</td>
+<td align="center">💡<br><b>Business Insights</b></td>
+<td align="center">➡️</td>
+<td align="center">🎯<br><b>Recommendations</b></td>
+</tr>
+</table>
+
+| Stage | Purpose |
+|------|------|
+| **Raw Data** | Collect structured and unstructured datasets |
+| **Data Cleaning** | Handle missing values, duplicates and formatting |
+| **SQL Analysis** | Query and transform data into analysis-ready tables |
+| **EDA** | Discover trends, patterns and customer behavior |
+| **Feature Engineering** | Create meaningful variables for deeper analysis |
+| **Visualization** | Build interactive dashboards and KPI reports |
+| **Insights** | Convert findings into business understanding |
+| **Recommendations** | Support smarter data-driven decisions |
+
+---
+
+<!-- PROJECTS -->
+
+# 🚀 Featured Data Analytics Projects
+
+## 📊 Customer Churn Analysis & Prediction
 
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-41454A?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=C++&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" />
-    <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=Apache_Hive&logoColor=white" alt="Apache_Hive" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon_AWS&logoColor=white" alt="Amazon_AWS" />
-    <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=MySQL&logoColor=white" alt="AWS_Lambda" />
-    <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo= Amazon_EC2&logoColor=white" alt="Amazon_EC2" />
-    <img src="https://img.shields.io/badge/Cloud-3693F3?style=for-the-badge&logo=Cloud&logoColor=white" alt="Cloud" />
-    <img src="https://img.shields.io/badge/Artificial_Intelligence-053766?style=for-the-badge&logo=Artificial_Intelligence&logoColor=white"       alt="Artificial_Intelligence" />
-    <img src="https://img.shields.io/badge/Machine_Learning-632CA6?style=for-the-badge&logo=Machine_Learning&logoColor=white" alt="Machine_Learning" />
-    <img src="https://img.shields.io/badge/Data_Structure-03EF62?style=for-the-badge&logo=Data_Structure&logoColor=white" alt="Data_Structure" />
-    <img src="https://img.shields.io/badge/Deep_Learning-2AB1AC?style=for-the-badge&logo=Deep_Learning&logoColor=white" alt="Deep_Learning" />
-    <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=Apache_Hadoop&logoColor=white" alt="Apache_Hadoop" />
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" />
-    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=Apache_Spark&logoColor=white" alt="Apache_Spark" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power_BI&logoColor=white" alt="Power_BI" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Microsoft_Azure-CB2E6D?style=for-the-badge&logo=Microsoft_Azure&logoColor=white" alt="Microsoft_Azure" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Algorithms-00BCB4?style=for-the-badge&logo=Algorithms&logoColor=white" alt="Algorithms" />
-    <img src="https://img.shields.io/badge/ABB_RobotStudio-FF9E0F?style=for-the-badge&logo=ABB_RobotStudio&logoColor=white" alt="ABB_RobotStudio" />
-    </p>
-    <br>
-  
-  
-  
-  <!----------------------------------- Social Media Links Section ------------------------------------>
-  
-  
- <h2><i>Let's Connect with me:</i></h2>
-<p align="left">
-    <a href="https://www.linkedin.com/in/manjunathgl/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manjunathgl/" />
-    </a>
-  <a title="manjunathgl064@gmail.com" href="mailto:manjunathgl064@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="manjunathgl064@gmail.com" />
-    </a>
-    <a href="https://twitter.com/manjugl_here">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/manjugl_here" />
-  </a>
-    <a href="https://leetcode.com/ManjunathGL/">
-        <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="https://leetcode.com/ManjunathGL/" />
-    </a>
-    <a href="https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view" />
-    </a>
-     <a href="https://www.kaggle.com/manjunathgl064">
-        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="https://www.kaggle.com/manjunathgl064" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww">
-        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww" />
-    </a>
+  <img src="https://img.shields.io/badge/SQL-Structured%20Analysis-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-Random%20Forest-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
-  
-  
-  
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-  
-  
- <h2><i>My GitHub Stats:</i></h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact&exclude=0&theme=tokyonight" alt="manjunathglo" /></p>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>
+**Business Objective**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>
+Analyze telecom customer behavior to identify churn patterns and develop a predictive machine learning solution supported by an interactive Power BI dashboard.
 
-  
-  
+### Key Analysis
+
+- Cleaned and standardized telecom customer data
+- Performed SQL-based customer and churn analysis
+- Conducted Exploratory Data Analysis using Python
+- Created customer segments and tenure groups
+- Built a Random Forest classification model
+- Evaluated feature importance and model performance
+- Designed an interactive Power BI dashboard
+- Generated business-oriented churn recommendations
+
+### Tech Stack
+
+**SQL • MySQL • Python • Pandas • NumPy • Scikit-learn • Power BI • DAX • Excel**
+
+### Project Links
+
+🔗 **Repository:** Add GitHub Project Link
+
+📊 **Dashboard:** Add Power BI Dashboard Link
+
+📄 **Documentation:** Add Project Report Link
+
+---
+
+## 👥 HR Analytics & Employee Attrition Prediction
+
+<p>
+  <img src="https://img.shields.io/badge/Python-EDA-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-HR%20Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+**Business Objective**
+
+Analyze employee data to understand attrition factors and support HR decision-making through predictive analytics.
+
+### Key Analysis
+
+- Employee data preprocessing
+- Exploratory Data Analysis
+- Attrition trend analysis
+- Feature engineering
+- Random Forest classification
+- Model evaluation
+- Feature importance analysis
+- HR business insights
+
+### Tech Stack
+
+**Python • Pandas • NumPy • Matplotlib • Scikit-learn • Power BI**
+
+### Project Links
+
+🔗 **Repository:** Add GitHub Project Link
+
+📊 **Dashboard:** Add Dashboard Link
+
+📄 **Documentation:** Add Documentation Link
+
+---
+
+## 📈 Sales & Business Performance Dashboard
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-Reporting-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Analytics-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+**Business Objective**
+
+Create an interactive business intelligence dashboard for monitoring sales performance and key business KPIs.
+
+### Key Analysis
+
+- Revenue analysis
+- Monthly sales trends
+- Regional performance
+- Customer performance
+- Product/category analysis
+- KPI monitoring
+- Interactive dashboard storytelling
+
+### Tech Stack
+
+**Power BI • SQL • Excel • DAX • Power Query**
+
+### Project Links
+
+🔗 **Repository:** Add GitHub Project Link
+
+📊 **Dashboard:** Add Power BI Link
+
+---
+
+# 📊 Power BI & Business Intelligence
+
+I focus on building dashboards that answer **business questions** rather than simply displaying charts.
+
+### Core BI Skills
+
+- Power Query
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Star Schema
+- Table Relationships
+- DAX Measures
+- Calculated Columns
+- KPI Design
+- Time Intelligence
+- Drill-through Reports
+- Interactive Filters & Slicers
+- Business Storytelling
+
+> **Goal:** Transform business data into clear, actionable visual insights for decision-makers.
+
+---
+
+# 🗄️ SQL Analytics
+
+SQL is one of my primary tools for transforming relational datasets into analysis-ready information.
+
+### SQL Skills
+
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- JOINs
+- CASE Statements
+- Subqueries
+- Common Table Expressions
+- Window Functions
+- Aggregate Functions
+- Date Functions
+- NULL Handling
+- Views
+- Query Optimization
+- Data Validation
+
+### Example SQL Query
+
+\`\`\`sql
+SELECT
+    CustomerSegment,
+    COUNT(*) AS Customers,
+    SUM(Revenue) AS TotalRevenue
+FROM customers
+GROUP BY CustomerSegment
+ORDER BY TotalRevenue DESC;
+\`\`\`
+
+---
+
+# 📚 Currently Learning
+
+<table>
+<tr>
+<td>📊 Advanced Power BI</td>
+<td>🐍 Advanced Python for Analytics</td>
+</tr>
+<tr>
+<td>📈 Advanced SQL</td>
+<td>🧠 Machine Learning</td>
+</tr>
+<tr>
+<td>📐 Statistics for Data Analysis</td>
+<td>💼 Business Analytics & Data Storytelling</td>
+</tr>
+</table>
+
+---
+
+# 🎯 Career Focus
+
+I'm actively building my career in the following roles:
+
+- Data Analyst
+- Business Intelligence Analyst
+- Junior Data Analyst
+- Reporting Analyst
+- Business Analyst
+
+My professional focus combines:
+
+> **Data + Business + Visualization + Decision Making**
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManjunathGlO&show_icons=true&theme=transparent&hide_border=true"/>
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjunathGlO&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathGlO&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 💭 Professional Philosophy
+
+> **“Good analysis explains what happened. Great analysis explains why it happened and what to do next.”**
+
+I believe data becomes valuable only when it helps people make informed business decisions.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manjunathgl/">
+<img src="https://img.shields.io/badge/LinkedIn-Manjunath%20G%20L-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manjunathgl064@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ManjunathGlO">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>Let's turn data into meaningful decisions. 📊</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me on LinkedIn.
+</p>
+
+<!-- ===================================================== -->
+<!--                END OF PROFILE README                  -->
+<!-- ===================================================== -->
