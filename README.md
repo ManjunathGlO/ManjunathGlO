@@ -352,9 +352,6 @@ My professional focus combines:
 
 # 📈 GitHub Statistics
 
- <h2><i>My GitHub Stats:</i></h2>
-
-
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /> </p>
 
