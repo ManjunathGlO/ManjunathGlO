@@ -187,6 +187,10 @@ Analyze telecom customer behavior to identify churn patterns and develop a predi
 
 📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
 
+### 💡 Business Focus
+
+Identified customer behavior and segments associated with higher churn risk to support data-driven customer retention strategies.
+
 ---
 
 ## 👥 HR Analytics & Employee Attrition Prediction
@@ -224,6 +228,10 @@ Analyze employee data to understand attrition factors and support HR decision-ma
 
 📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
 
+### 💡 Business Focus
+
+Used employee data to identify potential attrition drivers and provide insights that can support employee retention strategies.
+
 ---
 
 ## 📈 Sales & Business Performance Dashboard
@@ -259,6 +267,10 @@ Create an interactive business intelligence dashboard for monitoring sales perfo
 📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/17P9Dt9lwJFobzNeJ658SlTha-TQHd1CR/view?usp=sharing)
 
 📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
+
+### 💡 Business Focus
+
+Designed the dashboard to help decision-makers quickly understand sales performance, trends, customer behavior, and regional opportunities.
 
 ---
 
