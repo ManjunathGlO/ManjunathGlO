@@ -2,6 +2,7 @@
 <!--        MANJUNATH G L • DATA ANALYST PROFILE          -->
 <!-- ===================================================== -->
 <a name="top"></a>
+
 <img width="2172" height="724" alt="ChatGPT Image Aug 20, 2026, 08_52_33 AM" src="https://github.com/user-attachments/assets/e34e8cd2-4a13-4cc7-9631-ba73c693eb5d" />
 
 <p align="center">
