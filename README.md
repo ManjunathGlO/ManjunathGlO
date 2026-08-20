@@ -461,7 +461,9 @@ I believe data becomes valuable only when it helps people make informed business
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    alt="GitHub Footer"
+    width="100%"/>
 </p>
 
 
@@ -486,17 +488,6 @@ I believe data becomes valuable only when it helps people make informed business
 </div>
 
 <br />
-
-<!-- ==================== Footer ==================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123B6D,100:1F6FEB&height=100&section=footer"
-    alt="GitHub Footer"
-    width="100%"
-  />
-</p>
-
-
 
 <!-- ===================================================== -->
 <!--                END OF PROFILE README                  -->
