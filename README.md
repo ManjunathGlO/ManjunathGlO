@@ -303,7 +303,7 @@ SQL is one of my primary tools for transforming relational datasets into analysi
 
 ### Example SQL Query
 
-\`\`\`sql
+```sql
 SELECT
     CustomerSegment,
     COUNT(*) AS Customers,
@@ -311,7 +311,7 @@ SELECT
 FROM customers
 GROUP BY CustomerSegment
 ORDER BY TotalRevenue DESC;
-\`\`\`
+```
 
 ---
 
