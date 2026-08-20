@@ -308,6 +308,10 @@ SQL is one of my primary tools for transforming relational datasets into analysi
 - Query Optimization
 - Data Validation
 
+### SQL Concepts
+
+`SELECT` • `WHERE` • `GROUP BY` • `HAVING` • `JOINs` • `CASE` • `Subqueries` • `CTEs` • `Window Functions` • `Aggregate Functions` • `Date Functions` • `NULL Handling` • `Views` • `Query Optimization`
+
 ### Example SQL Query
 
 ```sql
