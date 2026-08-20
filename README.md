@@ -418,11 +418,6 @@ My professional focus combines:
   />
 </div>
 
-
----
-
-
-
 ---
 
 # 💭 Professional Philosophy
@@ -458,15 +453,6 @@ I believe data becomes valuable only when it helps people make informed business
 <p align="center">
   ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me on LinkedIn.
 </p>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
-    alt="GitHub Footer"
-    width="100%"/>
-</p>
-
-
 <!-- ==================== Support ==================== -->
 
 <div align="center">
@@ -486,6 +472,12 @@ I believe data becomes valuable only when it helps people make informed business
   </a>
 
 </div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 <br />
 
