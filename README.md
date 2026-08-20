@@ -47,6 +47,7 @@ I'm an aspiring **Data Analyst** with a strong foundation in **SQL, Python, Powe
 - 📈 Building interactive Power BI dashboards
 - 🧹 Interested in Data Cleaning & Exploratory Data Analysis
 - 🤖 Learning Machine Learning for predictive analytics
+- 💻 Explore my [**Portfolio**](https://manjunathglo.github.io/Manju-Portfolio/) to discover my **projects, skills, and journey** as a Data Analyst.
 
 ### My Analytics Mindset
 
@@ -349,7 +350,76 @@ My professional focus combines:
 > **Data + Business + Visualization + Decision Making**
 
 ---
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/manjunathglo">
+          <img
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=manjunathglo&count_private=true&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
+            alt="Manjunath G L's GitHub Stats"
+          />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/manjunathglo">
+          <img
+            src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=manjunathglo&theme=github-dark-blue&background=0D1117&fire=58A6FF&ring=1F6FEB&sideNums=C9D1D9&sideLabels=8B949E&dates=58A6FF&currStreakNum=FFFFFF"
+            alt="Manjunath G L's GitHub Streak"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/manjunathglo/Manju-Portfolio">
+          <img
+            width="470"
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=manjunathglo&repo=Manju-Portfolio&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&show_owner=true"
+            alt="Manju Portfolio"
+          />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/manjunathglo">
+          <img
+            src="https://github-repository-contribution-stat-green.vercel.app/api?username=manjunathglo&limit=2&theme=github_dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+            alt="Top Contributions"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+<!-- Contribution Graph -->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=manjunathglo&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true"
+    alt="Manjunath G L's Contribution Graph"
+  />
+</div>
+
+
+---
 # 📈 GitHub Statistics
 
 
