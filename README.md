@@ -181,11 +181,11 @@ Analyze telecom customer behavior to identify churn patterns and develop a predi
 
 ### Project Links
 
-🔗 **Repository:** Add GitHub Project Link
+🔗 **Repository:** [View GitHub Repository](https://github.com/ManjunathGlO/Customer-Churn-Analysis.git)
 
-📊 **Dashboard:** Add Power BI Dashboard Link
+📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/1g7DENUqRuBPvTkyad7_9fxCF5D5iQ4hj/view?usp=sharing)
 
-📄 **Documentation:** Add Project Report Link
+📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
 
 ---
 
@@ -218,11 +218,11 @@ Analyze employee data to understand attrition factors and support HR decision-ma
 
 ### Project Links
 
-🔗 **Repository:** Add GitHub Project Link
+🔗 **Repository:** [View GitHub Repository](https://github.com/ManjunathGlO/HR-Analytics-Dashboard.git)
 
-📊 **Dashboard:** Add Dashboard Link
+📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/1ZfzBzN4I_OWMmLFN43uCwlI2jfkVSXFq/view?usp=sharing)
 
-📄 **Documentation:** Add Documentation Link
+📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
 
 ---
 
@@ -254,9 +254,11 @@ Create an interactive business intelligence dashboard for monitoring sales perfo
 
 ### Project Links
 
-🔗 **Repository:** Add GitHub Project Link
+🔗 **Repository:** [View GitHub Repository](https://github.com/ManjunathGlO/Super-Store-Sales-Analysis.git)
 
-📊 **Dashboard:** Add Power BI Link
+📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/17P9Dt9lwJFobzNeJ658SlTha-TQHd1CR/view?usp=sharing)
+
+📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
 
 ---
 
