@@ -420,10 +420,7 @@ My professional focus combines:
 
 
 ---
-# 📈 GitHub Statistics
 
-
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /> </p>
 
 
 ---
@@ -461,6 +458,45 @@ I believe data becomes valuable only when it helps people make informed business
 <p align="center">
   ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me on LinkedIn.
 </p>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
+<!-- ==================== Support ==================== -->
+
+<div align="center">
+
+  <h3>☕ Sᴜᴘᴘᴏʀᴛ Mʏ Wᴏʀᴋ</h3>
+
+  <p>
+    If you find my projects helpful, consider supporting my work!
+  </p>
+
+  <a href="https://www.buymeacoffee.com/manjunathglo" target="_blank">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me A Coffee"
+      style="height: 40px !important; width: 200px !important;"
+    />
+  </a>
+
+</div>
+
+<br />
+
+<!-- ==================== Footer ==================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123B6D,100:1F6FEB&height=100&section=footer"
+    alt="GitHub Footer"
+    width="100%"
+  />
+</p>
+
+
 
 <!-- ===================================================== -->
 <!--                END OF PROFILE README                  -->
