@@ -49,7 +49,7 @@ I'm an aspiring **Data Analyst** with a strong foundation in **SQL, Python, Powe
 - 🤖 Learning Machine Learning for predictive analytics
 - 💻 Explore my [**Portfolio**](https://manjunathglo.github.io/Manju-Portfolio/) to discover my **projects, skills, and journey** as a Data Analyst.
 
-### My Analytics Mindset
+### My Analytics Mindset [🔝](#--gifs-for-readme--)
 
 > **Collect → Clean → Analyze → Visualize → Communicate → Recommend**
 
