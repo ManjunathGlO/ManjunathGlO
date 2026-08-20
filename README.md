@@ -424,6 +424,26 @@ My professional focus combines:
 
 ---
 
+<!-- ==================== Resume ==================== -->
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+  My resume is available below.
+</p>
+
+<p align="center">
+
+  <a href="./Resume/Manjunath_GL_Data_Analyst_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-123B6D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
+  </a>
+
+  <a href="./Resume/Manjunath_GL_Data_Analyst_Resume.pdf">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-1F6FEB?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume">
+  </a>
+
+</p>
+
+---
 # 💭 Professional Philosophy
 
 > **“Good analysis explains what happened. Great analysis explains why it happened and what to do next.”**
@@ -457,6 +477,7 @@ I believe data becomes valuable only when it helps people make informed business
 <p align="center">
   ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me on LinkedIn.
 </p>
+
 <!-- ==================== Support ==================== -->
 
 <div align="center">
