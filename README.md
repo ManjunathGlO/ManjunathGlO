@@ -38,7 +38,9 @@
 ---
 
 # 👨‍💻 About Me
+
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
+
 I'm an aspiring **Data Analyst** with a strong foundation in **SQL, Python, Power BI, Advanced Excel, and Data Visualization**. I enjoy transforming complex datasets into meaningful business insights through analytical thinking, interactive dashboards, and data storytelling.
 
 - 📊 Passionate about Business Analytics & BI
