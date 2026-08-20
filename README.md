@@ -352,19 +352,12 @@ My professional focus combines:
 
 # 📈 GitHub Statistics
 
-<p align="center">
+ <h2><i>My GitHub Stats:</i></h2>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManjunathGlO&show_icons=true&theme=transparent&hide_border=true"/>
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjunathGlO&theme=transparent&hide_border=true"/>
 
-</p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /> </p>
 
-<p align="center">
-
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathGlO&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
 
 ---
 
