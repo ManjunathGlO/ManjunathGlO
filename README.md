@@ -270,7 +270,7 @@ Create an interactive business intelligence dashboard for monitoring sales perfo
 
 📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/17P9Dt9lwJFobzNeJ658SlTha-TQHd1CR/view?usp=sharing)
 
-📄 **Documentation:** [View Project Report](https://github.com/ManjunathGlO/YOUR-REPOSITORY/blob/main/Report/Super_Store_Sales_Analysis_Project_Report.pdf)
+📄 **Documentation:** [View Project Report](https://github.com/ManjunathGlO/Super-Store-Sales-Analysis/blob/main/Report/Super_Store_Sales_Analysis_Project_Report.pdf)
 
 
 ### 💡 Business Focus
