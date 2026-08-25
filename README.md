@@ -229,7 +229,7 @@ Analyze employee data to understand attrition factors and support HR decision-ma
 
 📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/1ZfzBzN4I_OWMmLFN43uCwlI2jfkVSXFq/view?usp=sharing)
 
-📄 **Documentation:** [View Project Report](https://github.com/ManjunathGlO/YOUR-REPOSITORY/blob/main/Report/HR_Analytics_Project_Report.pdf)
+📄 **Documentation:** [View Project Report](https://github.com/ManjunathGlO/HR-Analytics-Dashboard/blob/main/Report/HR_Analytics_Project_Report.pdf)
 
 ### 💡 Business Focus
 
