@@ -229,7 +229,7 @@ Analyze employee data to understand attrition factors and support HR decision-ma
 
 📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/1ZfzBzN4I_OWMmLFN43uCwlI2jfkVSXFq/view?usp=sharing)
 
-📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
+📄 **Documentation:** [View Project Report](https://github.com/ManjunathGlO/YOUR-REPOSITORY/blob/main/Report/HR_Analytics_Project_Report.pdf)
 
 ### 💡 Business Focus
 
@@ -270,7 +270,8 @@ Create an interactive business intelligence dashboard for monitoring sales perfo
 
 📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/17P9Dt9lwJFobzNeJ658SlTha-TQHd1CR/view?usp=sharing)
 
-📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
+📄 **Documentation:** [View Project Report](https://github.com/ManjunathGlO/YOUR-REPOSITORY/blob/main/Report/Super_Store_Sales_Analysis_Project_Report.pdf)
+
 
 ### 💡 Business Focus
 
