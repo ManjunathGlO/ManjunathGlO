@@ -186,7 +186,12 @@ Analyze telecom customer behavior to identify churn patterns and develop a predi
 
 📊 **Dashboard:** [View Power BI Dashboard](https://drive.google.com/file/d/1g7DENUqRuBPvTkyad7_9fxCF5D5iQ4hj/view?usp=sharing)
 
-📄 **Documentation:** [View Project Report](YOUR_REPORT_LINK)
+📄 **Documentation:** [View Project Report](https://github.com/ManjunathGlO/Customer-Churn-Analysis/blob/main/Report/Customer_Churn_Analysis_%26_Prediction_Project_Report.pdf)
+
+📄 <strong>Documentation:</strong>
+<a href="https://github.com/ManjunathGlO/YOUR-REPORT-REPOSITORY/blob/main/Report/Customer_Churn_Analysis_%26_Prediction_Project_Report.pdf" target="_blank">
+View Project Report
+</a>
 
 ### 💡 Business Focus
 
