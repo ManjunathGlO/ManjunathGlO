@@ -188,10 +188,6 @@ Analyze telecom customer behavior to identify churn patterns and develop a predi
 
 📄 **Documentation:** [View Project Report](https://github.com/ManjunathGlO/Customer-Churn-Analysis/blob/main/Report/Customer_Churn_Analysis_%26_Prediction_Project_Report.pdf)
 
-📄 <strong>Documentation:</strong>
-<a href="https://github.com/ManjunathGlO/YOUR-REPORT-REPOSITORY/blob/main/Report/Customer_Churn_Analysis_%26_Prediction_Project_Report.pdf" target="_blank">
-View Project Report
-</a>
 
 ### 💡 Business Focus
 
